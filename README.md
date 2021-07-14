@@ -9,9 +9,8 @@
     > [跳轉至資料夾](https://github.com/sushi3085/Sophomore_C_Sharp/tree/main/%E2%85%A0%E7%A8%8B%E5%BC%8F%E6%9E%B6%E6%A7%8B "結構的'關鍵字'")
 
 1. 決定結構的"關鍵字"：namespace, class, 等等......
-    > 電腦閱讀程式的方法
-
-    > 同場加映：class內的結構、using的意思及單純的練習題-->[跳轉該篇文章](http://www.google.com "註解")
+    > 電腦閱讀程式的方法  
+    > 同場加映：class內的結構、using的意思及單純的練習題-->[跳轉該篇文章](https://github.com/sushi3085/Sophomore_C_Sharp/blob/main/%E2%85%A0%E7%A8%8B%E5%BC%8F%E6%9E%B6%E6%A7%8B/%E6%B1%BA%E5%AE%9A%E7%B5%90%E6%A7%8B%E7%9A%84%E9%97%9C%E9%8D%B5%E5%AD%97.md "註解")
 
 ## Ⅱ 運算《電腦就叫計算機，計...計算機的事，能不運算嗎？》
 
