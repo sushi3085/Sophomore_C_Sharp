@@ -1,12 +1,18 @@
-namespace Test
+using System;
+using System.IO;
+
+namespace Sophomore_C_Sharp
 {
-    class Test
+    class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            Console.WriteLine("helo world.");
-            Console.WriteLine();
-            Console.ReadLine();
+            int dd = 5;
+            int aa = 44;
+            string ee = "eee";
+            Console.WriteLine(dd+aa);
+            Console.WriteLine("123"+"123");
+
         }
     }
 }
