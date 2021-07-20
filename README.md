@@ -5,6 +5,11 @@
 ---
 # ⭐先備知識大補帖
 
+- 參照學習資源：
+    > [學習資源A(簡體)](https://visualstudio.microsoft.com/downloads/ "學習資源")  
+    > [學習資源B(英文)](https://www.tutorialspoint.com/csharp/csharp_basic_syntax.htm "TutorialsPoint")  
+    > [微軟爸爸(極度推薦)](https://docs.microsoft.com/zh-tw/dotnet/csharp/tour-of-csharp/tutorials/hello-world "珍貴學習資源")
+
 ## Ⅰ 程式架構《失誤不得的藍圖》
 
 - 了解C#程式碼檔案中的結構及各層之間的關係。
@@ -59,7 +64,7 @@
 - 程式的編輯器有推薦的嗎？我都用什麼編輯器？要怎麼安裝他們？
 - 名詞解釋要會看配分，API是什麼？
 - 看得懂就好啦，命名慣例又不能吃不是嗎？
-- 到目前"賺"了多少？自學的安慰劑？
+- 到目前"賺"了多少？自學的安慰劑？[Purchase?](https://www.tutorialspoint.com/search/C# "Fake")
 
 # ⭐資料結構——_Datastructure_
 
