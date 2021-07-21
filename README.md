@@ -6,7 +6,7 @@
 # ⭐先備知識大補帖
 
 - 參照學習資源：
-    > [學習資源A(簡體)](https://visualstudio.microsoft.com/downloads/ "學習資源")  
+    > [學習資源A(簡體)](https://www.runoob.com/csharp/csharp-tutorial.html "學習資源")  
     > [學習資源B(英文)](https://www.tutorialspoint.com/csharp/csharp_basic_syntax.htm "TutorialsPoint")  
     > [微軟爸爸(極度推薦)](https://docs.microsoft.com/zh-tw/dotnet/csharp/tour-of-csharp/tutorials/hello-world "珍貴學習資源")
 
