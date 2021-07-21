@@ -8,7 +8,8 @@
 - 參照學習資源：
     > [學習資源A(簡體)](https://www.runoob.com/csharp/csharp-tutorial.html "學習資源")  
     > [學習資源B(英文)](https://www.tutorialspoint.com/csharp/csharp_basic_syntax.htm "TutorialsPoint")  
-    > [微軟爸爸(極度推薦)](https://docs.microsoft.com/zh-tw/dotnet/csharp/tour-of-csharp/tutorials/hello-world "珍貴學習資源")
+    > [微軟爸爸(極度推薦)](https://docs.microsoft.com/zh-tw/dotnet/csharp/tour-of-csharp/tutorials/hello-world "珍貴學習資源")  
+    > [程式小短片們(Superfun)](https://www.youtube.com/c/Code/playlists "#shorts")  
 
 ## Ⅰ 程式架構《失誤不得的藍圖》
 
